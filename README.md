@@ -12,8 +12,8 @@ Students will be taught very basic programming skills in the first hour, before 
 
 If the students are bringing their personal laptops, it is recommended for course administrators to use the following tools for easier setup of the required environment.
 
-[Portable Python]: https://portablepython.com/
-[Visual Studio Code Portable Mode]: https://code.visualstudio.com/docs/editor/portable
+- [Portable Python](https://portablepython.com/)
+- [Visual Studio Code Portable Mode](https://code.visualstudio.com/docs/editor/portable)
 
 
 
@@ -49,5 +49,4 @@ You will be prompted to choose which exercise, as well as what input mode.
 
 ### Workshop Related Links
 
-- [Have I been PWNED?!?!]: https://haveibeenpwned.com/
-
+- [Have I been PWNED?!?!](https://haveibeenpwned.com/)
