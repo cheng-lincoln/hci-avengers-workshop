@@ -35,7 +35,7 @@ To run the exercises, run the following command in the root folder:
 python -m avenge
 ```
 
-The code is written in `python 2.7.15` and thus should be compatible with any later python versions.
+The code is written in `python 2.7.15` and is forward compatible with any later python versions.
 
 You will be prompted to choose which exercise, as well as what input mode.
 
@@ -44,6 +44,7 @@ You will be prompted to choose which exercise, as well as what input mode.
 ### Exercise Details
 
 1. For the purpose of simplicity, all passwords are 4 characters long, restricted to lower case alphabets.
+2. The name of the avenger gives a clue as to how the exercise should be solved.
 
 
 
