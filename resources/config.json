@@ -1,0 +1,16 @@
+{
+    "hulk": {
+        "sha1": "e9bc7e40caceedf60f0024d083594d39c72a4b14"
+    },
+    "strange": {
+        "sha1": [
+            "54fd1711209fb1c0781092374132c66e79e2241b",
+            "e9d71f5ee7c92d6dc9e92ffdad17b8bd49418f98",
+            "7a81af3e591ac713f81ea1efe93dcf36157d8376",
+            "22ea1c649c82946aa6e479e1ffd321e4a318b1b0"
+        ]
+    },
+    "thanos": {
+        "sha1": "b69f673cb3a23c41a5673e788cdfbc767a959e52"
+    }
+}
