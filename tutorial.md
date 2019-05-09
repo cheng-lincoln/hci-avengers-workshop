@@ -28,7 +28,7 @@ python main.py
 
 In the output, you will see:
 
-```bash
+```
 Hello World!
 ```
 
@@ -51,7 +51,7 @@ print('Goodbye!')
 
 In the output, you will see:
 
-```bash
+```
 Hello World!
 Goodbye!
 ```
@@ -73,7 +73,7 @@ print('Goodbye!')
 
 In the output, you will see:
 
-```bash
+```
 Hello World!
 Goodbye!
 ```
@@ -126,7 +126,7 @@ print(z + x) #12 is printed
 
 In the output:
 
-```bash
+```
 12
 ```
 
@@ -146,7 +146,7 @@ print('{0} is {1} years old!'.format(name, age)) #name replaces {0}, age replace
 
 In the output:
 
-```bash
+```
 Alice is 15 years old!
 Alice is 15 years old!
 ```
@@ -189,7 +189,7 @@ else:
 
 In the output:
 
-```bash
+```
 You have failed :(
 ```
 
@@ -254,7 +254,7 @@ else:
 
 In the output:
 
-```bash
+```
 Buy Alice roses.
 ```
 
@@ -277,7 +277,7 @@ else:
 
 In the output:
 
-```bash
+```
 Buy roses just in case.
 ```
 
@@ -298,7 +298,7 @@ else:
 
 In the output:
 
-```bash
+```
 Be nice to Alice.
 ```
 
@@ -332,7 +332,7 @@ else:
 
 In the output:
 
-```bash
+```
 Look for another shop that sells roses.
 ```
 
