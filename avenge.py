@@ -5,7 +5,7 @@ from src.exercises.hulk import crack as hulk_crack
 from src.exercises.strange import crack as strange_crack
 from src.exercises.thanos import crack as thanos_crack
 from src.load import load_answers, HULK, STRANGE, THANOS, EXERCISES, STRANGE_INTERVAL_S
-from src.lib import sha1_digest, input_multiple_choice
+from src.lib import sha1_digest, input_multiple_choice, vc_input
 import time
 
 input_map = {
@@ -55,7 +55,7 @@ if __name__ == '__main__':
     }
 
     while not controls['solved']:
-        (guess, force_stop) = execute_crack(exercise, controls) if use_script else (raw_input('Password: '), False)
+        (guess, force_stop) = execute_crack(exercise, controls) if use_script else (vc_input('Password: '), False)
         controls['last_timestamp'] = time.time()
         controls['tries'] += 1
         controls['solved'] = check_guess(exercise, guess, answers)
