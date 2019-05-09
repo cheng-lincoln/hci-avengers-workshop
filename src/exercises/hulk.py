@@ -26,4 +26,3 @@ def crack(previous_guess):
     #=== Stop writing your code here! ===
 
     return (guess, force_stop)
-

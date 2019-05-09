@@ -1,5 +1,4 @@
 import hashlib
-import sys
 
 def sha1_digest(s):
     m = hashlib.sha1()
@@ -12,10 +11,7 @@ def next_alphabet(c):
 
 def input_multiple_choice(question, choices):
     q = '{0} ({1}): '.format(question, '/'.join(choices))
-    response = vc_input(q)
+    response = input(q)
     while response not in choices:
-        response = vc_input(q)
+        response = input(q)
     return response
-
-def vc_input(params):
-  return raw_input(params) if (sys.version_info.major <= 2) else input(params)

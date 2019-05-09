@@ -8,7 +8,7 @@ def crack(previous_guess, time_taken):
     # Same as exercise 1 (hulk.py), except that now
     # (time_taken) tells you how long it took
     # the server to reply whether your guess was correct
-    
+
     #=== Stop writing your code here! ===
 
     return (guess, force_stop)
