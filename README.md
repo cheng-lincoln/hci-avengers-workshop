@@ -42,6 +42,24 @@ You will be prompted to choose which exercise, as well as what input mode.
 ### Workshop Related Links
 
 - [Have I been PWNED?!?!](https://haveibeenpwned.com/)
+- [Password Managers](https://www.lastpass.com/)
+- [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication)
+- [Shodan](https://www.shodan.io/)
+- [Online Vulnerability Scanners](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
+- [What's my IP?](https://www.whatsmyip.org/)
+- [Domain Lookups](https://www.whois.com/whois/)
+- [VPN Comparison](https://thatoneprivacysite.net/#detailed-vpn-comparison)
+- [IP Leak Check](https://ipleak.net/)
+- [HTML5 Canvas Fingerprinting](https://browserleaks.com/canvas)
+- [Digital Certificates](https://en.wikipedia.org/wiki/Public_key_certificate)
+- [HTTP Referer](https://en.wikipedia.org/wiki/HTTP_referer)
+- [Cookies and Supercookies](https://en.wikipedia.org/wiki/HTTP_cookie)
+- [User Agents](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent)
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- [User Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/)
+- [Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
+- [SS7](https://en.wikipedia.org/wiki/Signalling_System_No._7)
+- [Canary Tokens](http://canarytokens.org/generate)
 
 
 
