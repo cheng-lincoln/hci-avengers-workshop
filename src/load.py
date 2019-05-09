@@ -7,7 +7,7 @@ THANOS = 'thanos'
 
 EXERCISES = [HULK, STRANGE, THANOS]
 
-STRANGE_INTERVAL_S = 0.1
+STRANGE_INTERVAL_S = 1.0
 
 def load_answers():
     with open('resources/config.json') as fp:
