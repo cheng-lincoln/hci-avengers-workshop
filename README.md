@@ -35,7 +35,7 @@ To run the exercises, run the following command in the root folder:
 python -m avenge
 ```
 
-The code is written in `python 2.7.15` and is forward compatible with any later python versions.
+The code is compatible with `python 3`.
 
 You will be prompted to choose which exercise, as well as what input mode.
 
