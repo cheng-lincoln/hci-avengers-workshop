@@ -61,6 +61,7 @@ You will be prompted to choose which exercise, as well as what input mode.
 - [Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 - [SS7](https://en.wikipedia.org/wiki/Signalling_System_No._7)
 - [Canary Tokens](http://canarytokens.org/generate)
+- [How Long To Crack My Password](https://howsecureismypassword.net)
 
 
 
