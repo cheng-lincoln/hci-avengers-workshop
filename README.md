@@ -37,6 +37,7 @@ You will be prompted to choose which exercise, as well as what input mode.
 1. For the purpose of simplicity, all passwords are 4 characters long, restricted to lower case alphabets.
 2. The name of the avenger gives a clue as to how the exercise should be solved.
 
+![Flow Chart](https://raw.githubusercontent.com/lincoln-ch/hci-avengers-workshop/master/flow-hci-av.jpg)
 
 
 ### Workshop Related Links
