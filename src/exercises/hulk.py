@@ -14,9 +14,9 @@ def crack(previous_guess):
     # Example: If the (previous_guess) was 'agzz', your (next_guess) might be 'ahaa'.
     # Initially:
     # previous_guess[0] == guess[0] == 'a'
-    # previous_guess[0] == guess[0] == 'g'
-    # previous_guess[0] == guess[0] == 'z'
-    # previous_guess[0] == guess[0] == 'z'
+    # previous_guess[1] == guess[1] == 'g'
+    # previous_guess[2] == guess[2] == 'z'
+    # previous_guess[3] == guess[3] == 'z'
     # By the end of the function, (guess) should be:
     # guess[0] = 'a'
     # guess[1] = 'h'
