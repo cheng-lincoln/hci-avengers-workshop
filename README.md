@@ -32,39 +32,6 @@ You will be prompted to choose which exercise, as well as what input mode.
 
 
 
-### Exercise Details
-
-1. For the purpose of simplicity, all passwords are 4 characters long, restricted to lower case alphabets.
-2. The name of the avenger gives a clue as to how the exercise should be solved.
-
-![Flow Chart](https://raw.githubusercontent.com/lincoln-ch/hci-avengers-workshop/master/flow-hci-av.jpg)
-
-
-### Workshop Related Links
-
-- [Have I been PWNED?!?!](https://haveibeenpwned.com/)
-- [Password Managers](https://www.lastpass.com/)
-- [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication)
-- [Shodan](https://www.shodan.io/)
-- [Online Vulnerability Scanners](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
-- [What's my IP?](https://www.whatsmyip.org/)
-- [Domain Lookups](https://www.whois.com/whois/)
-- [VPN Comparison](https://thatoneprivacysite.net/#detailed-vpn-comparison)
-- [IP Leak Check](https://ipleak.net/)
-- [HTML5 Canvas Fingerprinting](https://browserleaks.com/canvas)
-- [Digital Certificates](https://en.wikipedia.org/wiki/Public_key_certificate)
-- [HTTP Referer](https://en.wikipedia.org/wiki/HTTP_referer)
-- [Cookies and Supercookies](https://en.wikipedia.org/wiki/HTTP_cookie)
-- [User Agents](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent)
-- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-- [User Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/)
-- [Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
-- [SS7](https://en.wikipedia.org/wiki/Signalling_System_No._7)
-- [Canary Tokens](http://canarytokens.org/generate)
-- [How Long To Crack My Password](https://howsecureismypassword.net)
-
-
-
 ### Using an online IDE like *repl.it*
 
 If stable internet access is readily available, consider using an online IDE like `repl.it` to run the exercise.
@@ -91,4 +58,41 @@ If stable internet access is readily available, consider using an online IDE lik
    3. `src/exercises/thanos.py`
 
 5. Press **Run** on the top-middle section to run the program.
+
+
+### Exercise Details
+
+1. For the purpose of simplicity, all passwords are 4 characters long, restricted to lower case alphabets.
+2. The name of the avenger gives a clue as to how the exercise should be solved.
+
+![Flow Chart](https://raw.githubusercontent.com/lincoln-ch/hci-avengers-workshop/master/flow-hci-av.jpg)
+
+
+### Workshop Related Links
+
+- [Have I been PWNED?!?!](https://haveibeenpwned.com/)
+- [How Long To Crack My Password](https://howsecureismypassword.net)
+- [2FA](https://en.wikipedia.org/wiki/Multi-factor_authentication)
+- [Password Managers](https://www.lastpass.com/)
+
+
+### More Security and Privacy Links
+
+- [Shodan](https://www.shodan.io/)
+- [Online Vulnerability Scanners](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap)
+- [What's my IP?](https://www.whatsmyip.org/)
+- [Domain Lookups](https://www.whois.com/whois/)
+- [VPN Comparison](https://thatoneprivacysite.net/#detailed-vpn-comparison)
+- [IP Leak Check](https://ipleak.net/)
+- [HTML5 Canvas Fingerprinting](https://browserleaks.com/canvas)
+- [Digital Certificates](https://en.wikipedia.org/wiki/Public_key_certificate)
+- [HTTP Referer](https://en.wikipedia.org/wiki/HTTP_referer)
+- [Cookies and Supercookies](https://en.wikipedia.org/wiki/HTTP_cookie)
+- [User Agents](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent)
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- [User Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/)
+- [Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
+- [SS7](https://en.wikipedia.org/wiki/Signalling_System_No._7)
+- [Canary Tokens](http://canarytokens.org/generate)
+
 
